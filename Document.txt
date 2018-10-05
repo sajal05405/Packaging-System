@@ -1,0 +1,7 @@
+In fruit industries or farms, fruits are currently packed according to its categories such as ripe, un-ripe, over-ripe and so on by human experts. This subjective process is error-prone and time-consuming. Therefore, we propose a robot which can pack fruits automatically according to their categories. This robot will take the photo of the fruit and use digital image processing techniques to categorize the fruits.
+
+1. Cost reduction.
+2. Time minimization.
+3. Less human intervention.
+4. Product waste decrement.
+5. Less error-prone.
